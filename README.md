@@ -35,7 +35,9 @@ I worked from the perspective of an independent journalist and data viz enthusia
    reducing transportation emissions overall must be prioritized.
 3) Product use emissions have stagnated between 6.6 and 5.0 million metric tons of C02e in the past 7 years, a concern since product use emissions grew yearly between 2019 to 2021 after an initial yearly
    reduction from 2015 to 2019. Solutions to reduce product use emissions must be found to maintain a downward trend.
-4) Apple must quickly put into place a scalable carbon offset program that shows they are capable of offsetting 9.6 million metric tons of C02e by 2030. 
+4) Apple must quickly put into place a scalable carbon offset program that shows they are capable of offsetting 9.6 million metric tons of C02e by 2030.
+
+![Maven Challenge - Apple Carbon Emissions Project](https://github.com/noelsomoza/How-Far-will-Apple-fall-from-the-Carbon-Neutral-Tree-/assets/143645214/99016ccb-09a3-42b6-8ac3-b4c82b29689f)
 
 ### Tools Used:
 1) Excel
